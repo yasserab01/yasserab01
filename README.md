@@ -1,7 +1,7 @@
 # Yasser Abassi
 
 ## 👋 Introduction
-Hello! I'm Yasser Abassi, an engineering student specializing in computer science from Casablanca, Morocco. I'm deeply passionate about web and mobile development, with a keen interest in secure development practices and DevOps to enhance efficiency and collaboration in projects. I'm currently seeking end-of-study internships (PFE) to further enrich my skills.
+Hello! I'm Yasser Abassi, an engineering student specializing in computer science from Casablanca, Morocco. I'm deeply passionate about web and mobile development, with a keen interest in secure development practices and DevOps to enhance efficiency and collaboration in projects.
 
 ## 📫 How to reach me
 - Email: yasserabassi05@gmail.com
