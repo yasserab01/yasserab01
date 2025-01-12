@@ -1,50 +1,98 @@
-# Yasser Abassi
+# 👋 Hi, I'm Yasser Abassi
 
-## 👋 Introduction
-Hello! I'm Yasser Abassi, an engineering student specializing in computer science from Casablanca, Morocco. I'm deeply passionate about web and mobile development, with a keen interest in secure development practices and DevOps to enhance efficiency and collaboration in projects.
+**Software Engineer** specializing in **full-stack development**, **microservices architecture**, and **DevOps practices**. I have a proven track record of developing secure, scalable applications using modern frameworks and technologies. I'm passionate about authentication systems, application performance optimization, and building robust, user-centric solutions.
 
-## 📫 How to reach me
-- Email: yasserabassi05@gmail.com
-- LinkedIn: [yasser-abassi](https://linkedin.com/in/yasser-abassi)
+---
 
-## 🔧 Technologies & Skills
-- **Programming Languages**: Java, Python, C++, C#, JavaScript, C
-- **Frameworks**: Spring (Data, Security, Cloud), Spring Boot, Vue.js, Angular
-- **Database Management**: SQL (Oracle, MySQL, Postgres), NoSQL (MongoDB)
-- **Version Control**: Git
-- **Containerization**: Docker
-- **Data Integration / BI**: Talend, Power BI
-- **Modeling**: UML, Merise
-- **Design Patterns**
-- **Web Services**: SOAP, REST, & GraphQL
+## 📞 Contact Me
+- **📱 Phone:** [+212604621261](tel:+212604621261)
+- **📧 Email:** [yasserabassi05@gmail.com](mailto:yasserabassi05@gmail.com)
+- **💼 LinkedIn:** [Yasser Abassi](https://www.linkedin.com/in/yasser-abassi)
+- **💻 GitHub:** [yasserab01](https://github.com/yasserab01)
+
+---
+
+## 🧑‍💻 Technical Skills
+
+### Programming Languages
+- Java, Python, C++, C, C#, JavaScript, Golang
+
+### Frameworks
+- Spring (Data, Security, Cloud), Spring Boot, Django, Vue.js, React.js, Laravel
+
+### Databases
+- Oracle (PL/SQL), MySQL, PostgreSQL, MongoDB
+
+### DevOps
+- Git, Docker, Jenkins, Kubernetes
+
+### Testing
+- JUnit, Mockito, Jest
+
+### Other
+- RESTful APIs, GraphQL, Agile/Scrum, CI/CD
+
+---
+
+## 💼 Work Experience
+
+### **Marketing Confort** - *Software Engineer*  
+**September 2024 - Present | Casablanca, Morocco**  
+- Built a generic chat service as an **npm package** using **Javalin** (backend) and **React.js** (frontend). Deployed it to **AWS CodeArtifact** for easy integration.  
+- Contributed to **Mydressin**, a microservices-based e-commerce platform:
+  - Developed an email service using **Freemarker** templates and **AWS S3** storage.
+  - Implemented CSV generation for users and products in the back-office.  
+
+---
+
+### **Symolia** - *Software Engineer Intern*  
+**March 2024 - June 2024 | Casablanca, Morocco**  
+- Created a compliance management application using **React.js** and **Spring Boot**.  
+- Implemented secure **JWT** authentication with role-based access.  
+- Established a **CI/CD pipeline** with **Jenkins** and **Docker**.  
+- Enhanced application security with **HTTPS** integration.  
+
+---
+
+### **Lesieur Cristal** - *Software Engineer Intern*  
+**August 2023 - September 2023 | Casablanca, Morocco**  
+- Built an order management application using **Java**, **Spring**, and **Vue.js**.  
+- Implemented secure authentication with **Spring Security** and **JWT**.  
+- Enhanced application performance with reactive programming.
+
+---
 
 ## 🎓 Education
-- **École Nationale Des Sciences Appliquées De Tanger**, Since September 2019
-- **Lycée Ibn Al Yassamine**, September 2017 - June 2019
 
-## 🌐 Languages
-- English (B2), French (B2), Arabic (Native)
+- **Software Engineering**  
+  **ENSA Tanger** - *September 2019 - June 2024*  
+  Tangier, Morocco  
 
-## 💼 Professional Experience
-- **Lesieur Cristal**, PFA Internship, Aug 2023 - Sep 2023
-  - Developed a web application improving order management efficiency significantly for large retailers.
-  - Technologies Used: Java, Spring Framework, Vue.js, Spring Security, JWT.
+- **Scientific Baccalaureate in Physics**  
+  **Ibn Al Yassamine High School** - *September 2017 - June 2019*  
+  Casablanca, Morocco  
 
-- **STMicroelectronics**, Internship, Aug 2022
-  - Automated reporting processes, reducing the time needed for data report compilation.
-  - Technologies Used: Excel, VBA macros.
+---
 
-## 💡 Projects
-- **HR Management Platform in Microservices with Spring Cloud**
-  - Designed a microservices architecture for an HR platform with service discovery, monitoring, and inter-service traffic routing.
-  - Technologies Used: Spring Cloud, Consul, Spring Boot, Actuator, Gateway, OpenFeign, PostgreSQL.
+## 🚀 Projects
 
-- **Blood Tracker Application**
-  - Developed a web application for managing and tracking blood donations following agile principles.
-  - Technologies Used: Laravel, MySQL, Git/GitHub, SCRUM methodology.
+### **Resource Management System (RMS)**  
+- Developed a microservices architecture using **Node.js**, **FastAPI**, and **Spring**.  
+- Deployed using **Docker** and **Kubernetes**, with automated **CI/CD pipelines** via **Jenkins**.
 
-- **School Management Application**
-  - Created an application to transform and present school data in digital formats using XML transformations.
-  - Technologies Used: Java, XML, Apache FOP, XSLT, XSL-FO.
+### **GamesDeals**  
+- Built a video game price comparison platform using **Django REST** framework and **React.js**.  
+- Utilized **PostgreSQL** for the database and **RabbitMQ** for asynchronous tasks.
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+---
+
+### 📈 Stats
+
+![Yasser's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasserab01&show_icons=true&hide=stars&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasserab01&layout=compact)
+
+---
+
+### 🤝 Let's Connect
+
+I'm open to collaborating on exciting projects or discussing tech ideas. Feel free to reach out through any of the contact options above!
